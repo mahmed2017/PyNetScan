@@ -1,0 +1,13 @@
+
+
+# No external dependencies(standard library only)
+# Python 3.10+
+
+
+
+Installation
+
+git clone https://github.com/USERNAME/PyNetScan.git
+cd PyNetScan
+python scanner.py --help
+
